@@ -1,0 +1,14 @@
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.AssemblyInfo.cs
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\CompStore\CompStore\bin\Debug\net8.0\CompStore.exe
+C:\Users\Victus\source\repos\CompStore\CompStore\bin\Debug\net8.0\CompStore.deps.json
+C:\Users\Victus\source\repos\CompStore\CompStore\bin\Debug\net8.0\CompStore.runtimeconfig.json
+C:\Users\Victus\source\repos\CompStore\CompStore\bin\Debug\net8.0\CompStore.dll
+C:\Users\Victus\source\repos\CompStore\CompStore\bin\Debug\net8.0\CompStore.pdb
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.dll
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\refint\CompStore.dll
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.pdb
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\CompStore.genruntimeconfig.cache
+C:\Users\Victus\source\repos\CompStore\CompStore\obj\Debug\net8.0\ref\CompStore.dll
